@@ -5,9 +5,9 @@ def third_challenge
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
-        "Benvolio" => {name: "Benvolio", age: "17", attitude: "worried"}, {name: "Mercutio", age: "18", attitude: "hot-headed"}
+        "Benvolio" => {name: "Benvolio", age: "17", attitude: "worried"}, "Mercitio" => {name: "Mercutio", age: "18", attitude: "hot-headed"}
       ]
-    end
+
     },
     :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
